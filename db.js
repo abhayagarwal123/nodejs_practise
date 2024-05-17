@@ -6,7 +6,7 @@ const dotenv=require("dotenv").config()
 //defining connection url
 
 
-const mongourl=process.env.MONGODB_URL
+const mongourl=process.env.localmongourl
 
 
 
